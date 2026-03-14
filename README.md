@@ -12,11 +12,18 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
-💻 Passionate **Full Stack Developer**
-☁️ Exploring **Cloud Computing & Scalable Systems**
-🌐 Building **modern frontend apps & scalable backend systems**
-📚 Currently learning **Networking, System Design & Cloud Technologies**
+I am a **B.Tech Computer Science Engineering student** and an aspiring **Full Stack Developer** passionate about building scalable and user-focused web applications.
+
+I enjoy working across the **entire web development stack**, from designing responsive frontend interfaces to developing secure and efficient backend APIs.
+
+💡 What I focus on:
+
+* Building **modern web applications** using React and Node.js
+* Developing **RESTful APIs and scalable backend systems**
+* Learning **Cloud Computing, DevOps, and System Design**
+* Writing **clean, maintainable, and production-ready code**
+
+I am currently seeking **internship and entry-level opportunities** where I can contribute, learn from experienced engineers, and grow as a software developer.
 
 ---
 
@@ -99,6 +106,14 @@ Console-based ticket booking system written in C.
 
 ---
 
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-vishu&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 # 📚 Currently Learning
 
 * Advanced JavaScript
@@ -111,14 +126,16 @@ Console-based ticket booking system written in C.
 
 # 🤝 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/vishanttchaudhary">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
+   
+
 <a href="mailto:vishantchoudhary2003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
