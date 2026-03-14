@@ -1,85 +1,78 @@
-<h1 align="center">Hi 👋, I'm Vishant Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vishant Chaudhary</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 💻 Security Engineer Aspirant
+🚀 Full Stack Developer | ☁️ Cloud Computing | 💻 Security Engineer Aspirant
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cybersecurity+Enthusiast;React+%7C+Node.js+%7C+JavaScript;Building+Secure+Web+Applications&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;React+%7C+Node.js+%7C+JavaScript;Building+Scalable+Web+Applications&center=true&width=500&height=45">
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student  
-💻 Passionate **Full Stack Developer**  
-🔐 Exploring **Cybersecurity & Secure Web Applications**  
-🌐 Building **scalable backend systems & modern frontend apps**  
-📚 Currently learning **Networking, System Design & Cloud Security**
+🎓 B.Tech Computer Science Engineering Student
+💻 Passionate **Full Stack Developer**
+☁️ Exploring **Cloud Computing & Scalable Systems**
+🌐 Building **modern frontend apps & scalable backend systems**
+📚 Currently learning **Networking, System Design & Cloud Technologies**
 
-🎯 **Goal:** Become a Security Engineer & build secure software systems
+🎯 **Goal:** Become a Security Engineer and build scalable secure systems.
 
 ---
 
 # 🚀 Tech Stack
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
 </p>
 
 ### Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
 </p>
 
-### Cybersecurity
+### Cloud / DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=linux,python"/>
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
 </p>
 
 ---
 
 # 🔥 Featured Projects
 
-## 🏥 Doctor Appointment Booking System
-Full-stack application for scheduling doctor appointments.
+## 🚗 Uber Clone
+
+Full-stack ride booking platform inspired by Uber.
 
 **Tech Stack**
 
 React • Node.js • Express • PostgreSQL
 
-Features
-- User Authentication
-- Appointment Booking
-- Database Integration
-- REST API
+**Features**
 
----
-
-## 🔐 VulnerableApp-for-Learning
-
-A deliberately insecure web application for practicing web security vulnerabilities.
-
-Includes:
-
-- SQL Injection
-- Cross Site Scripting (XSS)
-- Broken Authentication
-- CSRF vulnerabilities
-
-Designed for **security students and penetration testing practice**.
+* User Authentication
+* Ride Booking System
+* REST API Integration
+* Real-time data handling
+* Scalable backend architecture
 
 ---
 
@@ -87,11 +80,12 @@ Designed for **security students and penetration testing practice**.
 
 Console-based ticket booking system written in C.
 
-Features
-- User authentication
-- Train schedule
-- Ticket booking
-- Cancellation system
+**Features**
+
+* User authentication
+* Train schedule system
+* Ticket booking
+* Cancellation system
 
 ---
 
@@ -115,50 +109,32 @@ Features
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/im-vishu/im-vishu/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🛡 Cybersecurity Portfolio
-
-Security related learning and projects:
-
-- OWASP Top 10 Practice
-- Vulnerable Web App Lab
-- Secure Authentication APIs
-- Web Security Testing
-- Network Fundamentals
-
-Future Projects
-
-- Password Cracker Tool
-- Network Scanner
-- Log Analyzer (SOC Project)
-- Secure SaaS Platform
-
----
-
 # 📚 Currently Learning
 
-- Advanced JavaScript
-- Secure Backend Development
-- Cloud Security
-- Docker & DevOps
-- System Design
+* Advanced JavaScript
+* Cloud Computing
+* Docker & DevOps
+* Secure Backend Development
+* System Design
 
 ---
 
 # 🤝 Connect With Me
 
-💼 LinkedIn  
-📧 Email  
+<p>
+
+<a href="https://www.linkedin.com/in/vishanttchaudhary">
+<img src="https://img.shields.io/badge/LinkedIn-Vishant%20Chaudhary-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vishantchoudhary2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-vishantchoudhary2003@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy building **software that is both scalable and secure**.
+I enjoy building **software that is scalable, efficient, and production-ready**.
