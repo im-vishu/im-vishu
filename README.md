@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;React+%7C+Node.js+%7C+JavaScript;Building+Scalable+Web+Applications&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Computing;React+%7C+Node.js+%7C+JavaScript;Building+Scalable+Web+Applications&center=true&width=500&height=45">
 </p>
 
 ---
@@ -17,8 +17,6 @@
 ☁️ Exploring **Cloud Computing & Scalable Systems**
 🌐 Building **modern frontend apps & scalable backend systems**
 📚 Currently learning **Networking, System Design & Cloud Technologies**
-
-🎯 **Goal:** Become a Security Engineer and build scalable secure systems.
 
 ---
 
@@ -101,14 +99,6 @@ Console-based ticket booking system written in C.
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-vishu&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 📚 Currently Learning
 
 * Advanced JavaScript
@@ -124,11 +114,11 @@ Console-based ticket booking system written in C.
 <p>
 
 <a href="https://www.linkedin.com/in/vishanttchaudhary">
-<img src="https://img.shields.io/badge/LinkedIn-Vishant%20Chaudhary-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="mailto:vishantchoudhary2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-vishantchoudhary2003@gmail.com-red?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 </p>
