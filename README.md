@@ -127,17 +127,12 @@ Console-based ticket booking system written in C.
 # 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/vishanttchaudhary">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-   
-
-<a href="mailto:vishantchoudhary2003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/vishanttchaudhary">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:vishantchoudhary2003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 </p>
 
 ---
