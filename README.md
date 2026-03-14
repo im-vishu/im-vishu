@@ -1,50 +1,164 @@
-<h2> Hey there! I'm Vishant <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1 align="center">Hi 👋, I'm Vishant Kumar</h1>
 
-💻 **Full Stack Developer** | 🌐 **Web Development** | 🔐 **Cybersecurity Learner**  
+<h3 align="center">
+🚀 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 💻 Security Engineer Aspirant
+</h3>
 
-I’m passionate about building secure, scalable applications and exploring the world of **SOC, OWASP, and Bug Bounty**.  
-
----
-
-## 🚀 About Me
 <p align="center">
-  <img alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-</p>
-
-- 🎓 Final Year **B.Tech CSE Student**  
-- 💡 Main focus on **Full Stack Development** and **Modern Web Applications**  
-- 🌱 Exploring **secure coding practices** & **bug bounty basics**  
-- 🛠 Actively improving skills in **React, Node.js, Databases, and Cloud tools**  
-- 🎯 Goal: Contribute to open-source, build impactful projects, and start my journey as a **Full Stack Developer**  
-
----
-
-## 🛠️ Tech Stack
-**Languages**: JavaScript, Python, Java, C  
-**Frontend**: React, Next.js (basic), HTML5, CSS3, Bootstrap, Tailwind  
-**Backend**: Node.js, Express.js  
-**Databases**: MongoDB, MySQL, MS SQL Server  
-**Cybersecurity**: Linux, Networking, OWASP Top 10, SIEM (basic), TryHackMe  
-**Tools**: Git & GitHub, Docker (basic), Postman, Chrome DevTools  
-
----
-
-## 📊 GitHub Stats
-![Vishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-vishu&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-vishu&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/vishant--chaudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/im-vishu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cybersecurity+Enthusiast;React+%7C+Node.js+%7C+JavaScript;Building+Secure+Web+Applications&center=true&width=500&height=45">
 </p>
 
 ---
-✨ *Always curious, always building, always securing.*  
+
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering Student  
+💻 Passionate **Full Stack Developer**  
+🔐 Exploring **Cybersecurity & Secure Web Applications**  
+🌐 Building **scalable backend systems & modern frontend apps**  
+📚 Currently learning **Networking, System Design & Cloud Security**
+
+🎯 **Goal:** Become a Security Engineer & build secure software systems
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
+</p>
+
+### Cybersecurity
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python"/>
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+## 🏥 Doctor Appointment Booking System
+Full-stack application for scheduling doctor appointments.
+
+**Tech Stack**
+
+React • Node.js • Express • PostgreSQL
+
+Features
+- User Authentication
+- Appointment Booking
+- Database Integration
+- REST API
+
+---
+
+## 🔐 VulnerableApp-for-Learning
+
+A deliberately insecure web application for practicing web security vulnerabilities.
+
+Includes:
+
+- SQL Injection
+- Cross Site Scripting (XSS)
+- Broken Authentication
+- CSRF vulnerabilities
+
+Designed for **security students and penetration testing practice**.
+
+---
+
+## 🚆 Railway Reservation System
+
+Console-based ticket booking system written in C.
+
+Features
+- User authentication
+- Train schedule
+- Ticket booking
+- Cancellation system
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=im-vishu&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-vishu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-vishu&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/im-vishu/im-vishu/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🛡 Cybersecurity Portfolio
+
+Security related learning and projects:
+
+- OWASP Top 10 Practice
+- Vulnerable Web App Lab
+- Secure Authentication APIs
+- Web Security Testing
+- Network Fundamentals
+
+Future Projects
+
+- Password Cracker Tool
+- Network Scanner
+- Log Analyzer (SOC Project)
+- Secure SaaS Platform
+
+---
+
+# 📚 Currently Learning
+
+- Advanced JavaScript
+- Secure Backend Development
+- Cloud Security
+- Docker & DevOps
+- System Design
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn  
+📧 Email  
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building **software that is both scalable and secure**.
