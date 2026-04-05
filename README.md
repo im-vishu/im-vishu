@@ -1,86 +1,140 @@
-# Vishant Chaudhary
+<h1 align="center">Hi 👋, I'm Vishant Chaudhary</h1>
 
-**Full Stack Developer & Aspiring Cloud Engineer**
+<h3 align="center">
+🚀 Full Stack Developer | ☁️ Cloud Computing | 💻 Security Engineer Aspirant
+</h3>
 
----
-
-Welcome! This repository serves as my professional portfolio and central hub for everything related to my technical journey. Here, you’ll find detailed information about my skills, real-world projects, learning roadmap, resume, and online presence.
-
----
-
-## 🧑‍💻 About Me
-
-I am Vishant Chaudhary, a passionate Full Stack Developer and aspiring Security Engineer. This repository is designed to give an organized overview of my professional skills, major projects, continued learning path, resume, and how to connect with me.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Computing;React+%7C+Node.js+%7C+JavaScript;Building+Scalable+Web+Applications&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 💡 Technical Skills
+# 👨‍💻 About Me
 
-<!--
-List your key technical skills here. Example:
--->
-- **Programming Languages:** JavaScript, Python, [add others]
-- **Frontend:** React, HTML5, CSS3, Bootstrap
-- **Backend:** Node.js, Express.js, [add others]
-- **Database:** MongoDB, MySQL
-- **Tools & Platforms:** Git, Docker, GitHub Actions, Linux
-- **Security:** [List relevant security tools/topics]
+I am a **B.Tech Computer Science Engineering student** and an aspiring **Full Stack Developer** passionate about building scalable and user-focused web applications.
 
----
+I enjoy working across the **entire web development stack**, from designing responsive frontend interfaces to developing secure and efficient backend APIs.
 
-## 🚀 Projects
+💡 What I focus on:
 
-Here are some highlighted projects:
+* Building **modern web applications** using React and Node.js
+* Developing **RESTful APIs and scalable backend systems**
+* Learning **Cloud Computing, DevOps, and System Design**
+* Writing **clean, maintainable, and production-ready code**
 
-| Project         | Description                     | Tech Stack        | Link                |
-|-----------------|---------------------------------|-------------------|---------------------|
-| Project 1       | Short description...            | React, Node.js    | [View Project](#)   |
-| Project 2       | Short description...            | Python, Flask     | [View Project](#)   |
-
-_For more, see the `projects/` directory._
+I am currently seeking **internship and entry-level opportunities** where I can contribute, learn from experienced engineers, and grow as a software developer.
 
 ---
 
-## 🎯 Learning Roadmap
+# 🚀 Tech Stack
 
-My current focus areas include:
+### Frontend
 
-- Advanced JavaScript & TypeScript
-- Cloud Security Fundamentals
-- DevOps Practices (CI/CD, Docker)
-- Open Source Contributions
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind"/>
+</p>
 
-View the detailed roadmap in [`roadmap.md`](./roadmap.md).
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-## 📄 Resume
+### Database
 
-You can find my up-to-date resume here: [`resume.pdf`](./resume.pdf)  
-And connect with me on [LinkedIn](https://www.linkedin.com/in/vishanttchaudhary)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+</p>
 
----
+### Tools
 
-## 📬 Online Presence
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
+</p>
 
-- [Portfolio](https://dev-verse-portfolio.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/vishanttchaudhary)
-- [GitHub](https://github.com/im-vishu)
-- [Twitter](https://x.com/iam_vishant)
+### Cloud / DevOps
 
----
-
-## 🤝 Contact
-
-Feel free to [open an issue](https://github.com/im-vishu/im-vishu/issues) or reach out via [email](mailto:vishantchaudharyy@gmail.com) for collaborations, job opportunities, or just to say hello!
-
----
-
-## 📃 License
-
-Content © Vishant Chaudhary.  
-See [`LICENSE`](./LICENSE) for details.
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
+</p>
 
 ---
 
-> _“Learning never exhausts the mind.” – Leonardo da Vinci_
+# 🔥 Featured Projects
+
+## 🚗 Uber Clone
+
+Full-stack ride booking platform inspired by Uber.
+
+**Tech Stack**
+
+React • Node.js • Express • PostgreSQL
+
+**Features**
+
+* User authentication
+* Ride booking system
+* REST API integration
+* Real-time data handling
+* Scalable backend architecture
+
+---
+
+## 🚆 Railway Reservation System
+
+Console-based ticket booking system written in C.
+
+**Features**
+
+* User authentication
+* Train schedule system
+* Ticket booking
+* Cancellation system
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=im-vishu&show_icons=true&theme=tokyonight"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-vishu&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-vishu&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+* Advanced JavaScript
+* Cloud Computing
+* Docker & DevOps
+* Secure Backend Development
+* System Design
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishanttchaudhary">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:vishantchaudharyy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building **software that is scalable, efficient, and production-ready**.
