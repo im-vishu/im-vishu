@@ -107,7 +107,7 @@ Console-based ticket booking system written in C.
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-vishu&layout=compact&theme=tokyonight&count_private=true&hide=css,html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-vishu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
